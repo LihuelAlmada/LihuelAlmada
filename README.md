@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi I'm Lihuel 👋
 
+## Frontend Developer
+
+```javascript
+const lihuel = {
+  pronouns: "he" | "him",
+  languages: [Javascript, C#, Python],
+  tools: [React],
+  currentlyLearning: [Design]
+}
+```
 <!--
 **LihuelAlmada/LihuelAlmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
