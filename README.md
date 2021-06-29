@@ -1,13 +1,14 @@
 ### Hi I'm Lihuel 👋
 
-## Frontend Developer
+## Fullstack Developer
 
 ```javascript
 const lihuel = {
   pronouns: "he" | "him",
-  languages: [Javascript, C#, Python],
-  tools: [React],
-  currentlyLearning: [Design]
+  languages: [Javascript, Typescript, C#, Python],
+  libraries: [React, ReactNative, Angular, TensorFlow, Keras, Numpy],
+  tools: [Expo, GitHub, Ionic ],
+  currentlyLearning: [DesignApps]
 }
 ```
 <!--
